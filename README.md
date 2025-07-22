@@ -47,5 +47,5 @@ Decision-makers to build more focused employee retention strategies.
 🛠️ Technologies Used
 Tableau – for interactive data visualization
 
-Excel / CSV – for data preparation (assumed source)
+Excel – for data preparation 
 
